@@ -1,0 +1,24 @@
+ body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensures the body takes up the full viewport height */
+   
+ }  
+
+.body {
+    border: 1px solid black;
+    height: 40vh;
+    width: 40vw;
+    text-align: center;
+    background-color: brown;
+}
+input{
+    width: 400px;
+    height:40px;
+    margin-top:10px;
+}
+button{
+    margin-top:20px ;
+    padding: 10px;
+}
